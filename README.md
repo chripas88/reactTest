@@ -1,5 +1,13 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Dependancies
+
+* "axios": "^0.19.2"
+* "react-redux": "^7.2.0"
+* "react-router-dom": "^5.1.2"
+* "redux": "^4.0.5"
+* "redux-thunk": "^2.3.0"
+
 ## Available Scripts
 
 In the project directory, you can run:
