@@ -1,0 +1,23 @@
+.Section {
+	height: 100%;
+	width: 100%;
+	background-color: #fff1df;	
+	padding: 20px;
+	box-sizing: border-box;
+	color: #666059;
+	position: relative;
+	-moz-column-count: 3;
+	-moz-column-gap: 50px;
+	-webkit-column-count: 3;
+	-webkit-column-gap: 50px;
+	column-count: 3;
+	column-gap: 50px;
+}
+
+.Big {
+	height: 100%;
+}
+
+.Small {
+	height: 25%;
+}

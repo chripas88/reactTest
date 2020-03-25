@@ -1,0 +1,11 @@
+export const GET_HOME_DATA = "GET_HOME_DATA";
+export const GET_HOME_DATA_FAIL = "GET_HOME_DATA_FAIL";
+
+export const GET_PAGE_DATA = "GET_PAGE_DATA";
+export const GET_PAGE_DATA_FAIL = "GET_PAGE_DATA_FAIL";
+
+export const GET_MENU_DATA = "GET_MENU_DATA";
+export const GET_MENU_DATA_FAIL = "GET_MENU_DATA_FAIL";
+
+export const GET_SLIDER_DATA = "GET_SLIDER_DATA";
+export const GET_SLIDER_DATA_FAIL = "GET_SLIDER_DATA_FAIL";

@@ -1,0 +1,26 @@
+.Page {
+	height: 500px;
+	width: 100%;
+	background-color: #fff1df;
+	color: white;
+	padding: 0 20px;
+	box-sizing: border-box;
+-moz-column-count: 3;
+-moz-column-gap: 50px;
+-webkit-column-count: 3;
+-webkit-column-gap: 50px;
+column-count: 3;
+column-gap: 50px;
+}
+
+.Big {
+	height: 500px;
+}
+
+.Small {
+	height: 250px;
+}
+
+h2 {
+	text-align: center;
+}

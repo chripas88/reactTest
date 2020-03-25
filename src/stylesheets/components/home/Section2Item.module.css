@@ -1,0 +1,15 @@
+.Section2Item {
+	padding: 10px;
+	margin: 20px;
+	border: solid 2px #666059;
+	/* display: block; */
+	display: flex;
+}
+
+#narrow {
+  width: 20%;
+	text-align: right;
+}
+#wide {
+  flex: 1;
+}

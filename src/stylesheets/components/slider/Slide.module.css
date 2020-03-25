@@ -1,0 +1,13 @@
+.Slide {
+	height: 75%;
+	width:80%;
+	box-sizing: border-box;
+	display: inline-block;
+	width: 100%;
+	position: relative;
+	margin-bottom: 30px;
+}
+
+.Slide h5 {
+	margin-top: 70px;
+}

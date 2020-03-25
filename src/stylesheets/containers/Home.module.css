@@ -1,0 +1,15 @@
+.Home {
+
+}
+
+h2 {
+	text-align: center;
+}
+
+.SectionButtons{
+	text-align: right
+}
+
+.SectionButtons button {
+	margin: 10px;
+}

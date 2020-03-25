@@ -1,0 +1,11 @@
+.Section1Item {
+	padding: 10px;
+	margin: 20px;
+	border: solid 2px #666059;
+	display: inline-block;
+}
+
+.Section1Item img {
+	height: 100%;
+	width: 100%
+}

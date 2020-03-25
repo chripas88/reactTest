@@ -1,0 +1,12 @@
+.UserInfo {
+	margin: 20px auto;
+	width: 80%;
+	text-align: center;
+	color: #666059;
+	box-shadow: 0 2px 3px #ccc;
+	border: 1px solid #666059;
+	padding: 10px;
+	box-sizing: border-box;
+	position: relative;	
+	display: inline-block;
+}

@@ -1,0 +1,35 @@
+.Section {
+	height: 100%;
+	width: 100%;
+	background-color: #fff1df;	
+	padding: 20px;
+	box-sizing: border-box;
+	color: #666059;
+	position: relative;
+	
+}
+
+.col_2 {
+	-moz-column-count: 2;
+	-moz-column-gap: 50px;
+	-webkit-column-count: 2;
+	-webkit-column-gap: 50px;
+	column-count: 2;
+	column-gap: 50px;
+}
+
+.Big {
+	height: 100%;
+}
+
+.Small {
+	height: 25%;
+}
+
+h3 {
+	margin: 20px;
+}
+
+h4 {
+	margin: 20px;
+}
