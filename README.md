@@ -1,6 +1,6 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Dependancies
+## Dependencies
 
 * "axios": "^0.19.2"
 * "react-redux": "^7.2.0"
